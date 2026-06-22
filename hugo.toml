@@ -2,6 +2,14 @@ baseURL = 'https://robins-parties.com/'
 locale = 'en-us'
 title = "Robin's Parties!"
 
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'
+
 [permalinks]
   "/" = "/:filename"
 
