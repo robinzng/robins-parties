@@ -1,5 +1,12 @@
 ---
-title: "Home page"
+title: "Happy Birthday, Gloria."
 ---
 
-[Go to firstpost](/wrong-way/).
+Are you really you? 
+
+Select your birthday.
+
+[6/20/1997](/6-20-1997)
+[5/15/1997](/5-15-1997)
+[6/20/2026](/6-20-2026)
+[1/1/1](/1-1-1)
