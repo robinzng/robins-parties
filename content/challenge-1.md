@@ -2,5 +2,6 @@
 title: "Challenge 1"
 ---
 
-Here is your first challenge. 
+![pigpen](/images/pigpen.png)
 
+![challenge-1](/images/challenge-1.png)
