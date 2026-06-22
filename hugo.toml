@@ -4,3 +4,6 @@ title = "Robin's Parties!"
 
 [permalinks]
   "/" = "/:filename"
+
+[markup.goldmark.renderer]
+unsafe = true  # allow raw HTML in markdown files
